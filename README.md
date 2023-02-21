@@ -1,5 +1,8 @@
 # zabbix-agent-on-RasPi
 Script and template for zabbix-agent to run on raspberryPi.
+
+https://habr.com/ru/company/first/blog/692322/
+
 I assume you already installed zabbix-agent
 `sudo apt install zabbix-agent`
 
